@@ -13,7 +13,7 @@ Original file is located at
 
 import openai
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "Your Api Key"
 
 
 # Set up the model and prompt
